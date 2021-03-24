@@ -1,0 +1,28 @@
+{
+  "name": "ochain",
+  "version": "0.0.1",
+  "description": "Access objects props without bans. JS objects accessor, chaining, proxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shov/ochain.git"
+  },
+  "keywords": [
+    "JS",
+    "language",
+    "objects",
+    "properties",
+    "accessor",
+    "chaining",
+    "proxy"
+  ],
+  "author": "Alexandr Shevchenko aka shov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shov/ochain/issues"
+  },
+  "homepage": "https://github.com/shov/ochain#readme"
+}
